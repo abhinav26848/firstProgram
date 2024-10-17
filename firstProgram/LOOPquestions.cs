@@ -167,8 +167,8 @@ namespace firstProgram
                 Console.WriteLine(i);
             }
         }
-        static void Main(string[] args)
-        {
+       // static void Main(string[] args)
+       // {
             // q1();
             //q2 ();
             //q3();
@@ -180,8 +180,8 @@ namespace firstProgram
             //q9(10);
             // q10();
             //q11();
-            q12();
-        }
+           // q12();
+        //}
 
     }
 }
